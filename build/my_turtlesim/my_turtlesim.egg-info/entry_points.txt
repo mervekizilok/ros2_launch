@@ -1,0 +1,3 @@
+[console_scripts]
+draw_shapes = my_turtlesim.draw_shapes4:main
+

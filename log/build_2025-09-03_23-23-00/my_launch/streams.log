@@ -1,0 +1,35 @@
+[0.754s] Invoking command in '/home/pc/ros2_ws/src/my_launch': PYTHONPATH=/home/pc/ros2_ws/build/my_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pc/ros2_ws/install/my_launch/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_launch build --build-base /home/pc/ros2_ws/build/my_launch/build install --record /home/pc/ros2_ws/build/my_launch/install.log --install-scripts $base/lib/my_launch --single-version-externally-managed install_data
+[0.906s] running egg_info
+[0.906s] creating ../../build/my_launch/my_launch.egg-info
+[0.907s] writing ../../build/my_launch/my_launch.egg-info/PKG-INFO
+[0.907s] writing dependency_links to ../../build/my_launch/my_launch.egg-info/dependency_links.txt
+[0.907s] writing entry points to ../../build/my_launch/my_launch.egg-info/entry_points.txt
+[0.907s] writing requirements to ../../build/my_launch/my_launch.egg-info/requires.txt
+[0.907s] writing top-level names to ../../build/my_launch/my_launch.egg-info/top_level.txt
+[0.908s] writing manifest file '../../build/my_launch/my_launch.egg-info/SOURCES.txt'
+[0.934s] reading manifest file '../../build/my_launch/my_launch.egg-info/SOURCES.txt'
+[0.935s] writing manifest file '../../build/my_launch/my_launch.egg-info/SOURCES.txt'
+[0.935s] running build
+[0.935s] running build_py
+[0.935s] creating /home/pc/ros2_ws/build/my_launch/build
+[0.935s] creating /home/pc/ros2_ws/build/my_launch/build/lib
+[0.935s] creating /home/pc/ros2_ws/build/my_launch/build/lib/my_launch
+[0.935s] copying my_launch/__init__.py -> /home/pc/ros2_ws/build/my_launch/build/lib/my_launch
+[0.935s] running install
+[0.936s] running install_lib
+[0.936s] creating /home/pc/ros2_ws/install/my_launch/lib/python3.8/site-packages/my_launch
+[0.937s] copying /home/pc/ros2_ws/build/my_launch/build/lib/my_launch/__init__.py -> /home/pc/ros2_ws/install/my_launch/lib/python3.8/site-packages/my_launch
+[0.937s] byte-compiling /home/pc/ros2_ws/install/my_launch/lib/python3.8/site-packages/my_launch/__init__.py to __init__.cpython-38.pyc
+[0.938s] running install_data
+[0.938s] creating /home/pc/ros2_ws/install/my_launch/share/ament_index
+[0.938s] creating /home/pc/ros2_ws/install/my_launch/share/ament_index/resource_index
+[0.938s] creating /home/pc/ros2_ws/install/my_launch/share/ament_index/resource_index/packages
+[0.938s] copying resource/my_launch -> /home/pc/ros2_ws/install/my_launch/share/ament_index/resource_index/packages
+[0.938s] copying package.xml -> /home/pc/ros2_ws/install/my_launch/share/my_launch
+[0.938s] creating /home/pc/ros2_ws/install/my_launch/share/my_launch/launch
+[0.938s] copying launch/all.launch.py -> /home/pc/ros2_ws/install/my_launch/share/my_launch/launch
+[0.938s] running install_egg_info
+[0.939s] Copying ../../build/my_launch/my_launch.egg-info to /home/pc/ros2_ws/install/my_launch/lib/python3.8/site-packages/my_launch-0.0.0-py3.8.egg-info
+[0.940s] running install_scripts
+[0.954s] writing list of installed files to '/home/pc/ros2_ws/build/my_launch/install.log'
+[0.975s] Invoked command in '/home/pc/ros2_ws/src/my_launch' returned '0': PYTHONPATH=/home/pc/ros2_ws/build/my_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pc/ros2_ws/install/my_launch/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_launch build --build-base /home/pc/ros2_ws/build/my_launch/build install --record /home/pc/ros2_ws/build/my_launch/install.log --install-scripts $base/lib/my_launch --single-version-externally-managed install_data

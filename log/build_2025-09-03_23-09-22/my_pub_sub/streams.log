@@ -1,0 +1,41 @@
+[0.319s] Invoking command in '/home/pc/ros2_ws/src/my_pub_sub': PYTHONPATH=/home/pc/ros2_ws/build/my_pub_sub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pub_sub build --build-base /home/pc/ros2_ws/build/my_pub_sub/build install --record /home/pc/ros2_ws/build/my_pub_sub/install.log --install-scripts $base/lib/my_pub_sub --single-version-externally-managed install_data
+[0.420s] running egg_info
+[0.421s] creating ../../build/my_pub_sub/my_pub_sub.egg-info
+[0.421s] writing ../../build/my_pub_sub/my_pub_sub.egg-info/PKG-INFO
+[0.421s] writing dependency_links to ../../build/my_pub_sub/my_pub_sub.egg-info/dependency_links.txt
+[0.421s] writing entry points to ../../build/my_pub_sub/my_pub_sub.egg-info/entry_points.txt
+[0.421s] writing requirements to ../../build/my_pub_sub/my_pub_sub.egg-info/requires.txt
+[0.421s] writing top-level names to ../../build/my_pub_sub/my_pub_sub.egg-info/top_level.txt
+[0.429s] writing manifest file '../../build/my_pub_sub/my_pub_sub.egg-info/SOURCES.txt'
+[0.446s] reading manifest file '../../build/my_pub_sub/my_pub_sub.egg-info/SOURCES.txt'
+[0.446s] writing manifest file '../../build/my_pub_sub/my_pub_sub.egg-info/SOURCES.txt'
+[0.446s] running build
+[0.446s] running build_py
+[0.446s] creating /home/pc/ros2_ws/build/my_pub_sub/build
+[0.446s] creating /home/pc/ros2_ws/build/my_pub_sub/build/lib
+[0.446s] creating /home/pc/ros2_ws/build/my_pub_sub/build/lib/my_pub_sub
+[0.446s] copying my_pub_sub/__init__.py -> /home/pc/ros2_ws/build/my_pub_sub/build/lib/my_pub_sub
+[0.446s] copying my_pub_sub/random_five_subscriber.py -> /home/pc/ros2_ws/build/my_pub_sub/build/lib/my_pub_sub
+[0.447s] copying my_pub_sub/random_five_publisher.py -> /home/pc/ros2_ws/build/my_pub_sub/build/lib/my_pub_sub
+[0.447s] running install
+[0.447s] running install_lib
+[0.447s] creating /home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages/my_pub_sub
+[0.448s] copying /home/pc/ros2_ws/build/my_pub_sub/build/lib/my_pub_sub/__init__.py -> /home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages/my_pub_sub
+[0.448s] copying /home/pc/ros2_ws/build/my_pub_sub/build/lib/my_pub_sub/random_five_subscriber.py -> /home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages/my_pub_sub
+[0.448s] copying /home/pc/ros2_ws/build/my_pub_sub/build/lib/my_pub_sub/random_five_publisher.py -> /home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages/my_pub_sub
+[0.448s] byte-compiling /home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages/my_pub_sub/__init__.py to __init__.cpython-38.pyc
+[0.448s] byte-compiling /home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages/my_pub_sub/random_five_subscriber.py to random_five_subscriber.cpython-38.pyc
+[0.448s] byte-compiling /home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages/my_pub_sub/random_five_publisher.py to random_five_publisher.cpython-38.pyc
+[0.449s] running install_data
+[0.449s] creating /home/pc/ros2_ws/install/my_pub_sub/share/ament_index
+[0.449s] creating /home/pc/ros2_ws/install/my_pub_sub/share/ament_index/resource_index
+[0.449s] creating /home/pc/ros2_ws/install/my_pub_sub/share/ament_index/resource_index/packages
+[0.449s] copying resource/my_pub_sub -> /home/pc/ros2_ws/install/my_pub_sub/share/ament_index/resource_index/packages
+[0.449s] copying package.xml -> /home/pc/ros2_ws/install/my_pub_sub/share/my_pub_sub
+[0.449s] running install_egg_info
+[0.450s] Copying ../../build/my_pub_sub/my_pub_sub.egg-info to /home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages/my_pub_sub-0.0.0-py3.8.egg-info
+[0.450s] running install_scripts
+[0.460s] Installing random_five_publisher script to /home/pc/ros2_ws/install/my_pub_sub/lib/my_pub_sub
+[0.460s] Installing random_five_subscriber script to /home/pc/ros2_ws/install/my_pub_sub/lib/my_pub_sub
+[0.460s] writing list of installed files to '/home/pc/ros2_ws/build/my_pub_sub/install.log'
+[0.470s] Invoked command in '/home/pc/ros2_ws/src/my_pub_sub' returned '0': PYTHONPATH=/home/pc/ros2_ws/build/my_pub_sub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pub_sub build --build-base /home/pc/ros2_ws/build/my_pub_sub/build install --record /home/pc/ros2_ws/build/my_pub_sub/install.log --install-scripts $base/lib/my_pub_sub --single-version-externally-managed install_data

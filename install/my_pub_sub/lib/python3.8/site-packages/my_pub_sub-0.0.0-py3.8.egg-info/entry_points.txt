@@ -1,0 +1,4 @@
+[console_scripts]
+random_five_publisher = my_pub_sub.random_five_publisher:main
+random_five_subscriber = my_pub_sub.random_five_subscriber:main
+

@@ -1,0 +1,22 @@
+[0.755s] Invoking command in '/home/pc/ros2_ws/src/my_pub_sub': PYTHONPATH=/home/pc/ros2_ws/build/my_pub_sub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pub_sub build --build-base /home/pc/ros2_ws/build/my_pub_sub/build install --record /home/pc/ros2_ws/build/my_pub_sub/install.log --install-scripts $base/lib/my_pub_sub --single-version-externally-managed install_data
+[0.905s] running egg_info
+[0.905s] writing ../../build/my_pub_sub/my_pub_sub.egg-info/PKG-INFO
+[0.905s] writing dependency_links to ../../build/my_pub_sub/my_pub_sub.egg-info/dependency_links.txt
+[0.906s] writing entry points to ../../build/my_pub_sub/my_pub_sub.egg-info/entry_points.txt
+[0.906s] writing requirements to ../../build/my_pub_sub/my_pub_sub.egg-info/requires.txt
+[0.906s] writing top-level names to ../../build/my_pub_sub/my_pub_sub.egg-info/top_level.txt
+[0.933s] reading manifest file '../../build/my_pub_sub/my_pub_sub.egg-info/SOURCES.txt'
+[0.934s] writing manifest file '../../build/my_pub_sub/my_pub_sub.egg-info/SOURCES.txt'
+[0.934s] running build
+[0.934s] running build_py
+[0.934s] running install
+[0.935s] running install_lib
+[0.936s] running install_data
+[0.936s] running install_egg_info
+[0.937s] removing '/home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages/my_pub_sub-0.0.0-py3.8.egg-info' (and everything under it)
+[0.937s] Copying ../../build/my_pub_sub/my_pub_sub.egg-info to /home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages/my_pub_sub-0.0.0-py3.8.egg-info
+[0.938s] running install_scripts
+[0.952s] Installing random_five_publisher script to /home/pc/ros2_ws/install/my_pub_sub/lib/my_pub_sub
+[0.952s] Installing random_five_subscriber script to /home/pc/ros2_ws/install/my_pub_sub/lib/my_pub_sub
+[0.953s] writing list of installed files to '/home/pc/ros2_ws/build/my_pub_sub/install.log'
+[0.985s] Invoked command in '/home/pc/ros2_ws/src/my_pub_sub' returned '0': PYTHONPATH=/home/pc/ros2_ws/build/my_pub_sub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pc/ros2_ws/install/my_pub_sub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pub_sub build --build-base /home/pc/ros2_ws/build/my_pub_sub/build install --record /home/pc/ros2_ws/build/my_pub_sub/install.log --install-scripts $base/lib/my_pub_sub --single-version-externally-managed install_data
